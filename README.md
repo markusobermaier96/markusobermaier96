@@ -21,17 +21,25 @@ I am an Internet Computing Student at the University of Passau.
 
 ##### ❤️ My go-to tech
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=Python&logoColor=white&color=ED473D)
+![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/-Rust-informational?style=flat&logo=Rust-000000&logoColor=white&color=ED473D)
 ![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![](https://img.shields.io/badge/-Sveltekit-informational?style=flat&logo=Sveltekit&logoColor=white&color=ED473D)
+![](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ![](https://img.shields.io/badge/-Manjaro-informational?style=flat&logo=Manjaro&logoColor=white&color=ED473D)
 ![](https://img.shields.io/badge/-VSCode-informational?style=flat&logo=VSCode&logoColor=white&color=ED473D)
 
 ##### 💎 Solid
-![](https://img.shields.io/badge/-HTML-informational?style=flat&logo=html5&logoColor=white&color=58C3CE)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/-CSS-informational?style=flat&logo=css3&logoColor=white&color=58C3CE)
-![](https://img.shields.io/badge/-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=58C3CE)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+##### 🔨 Already worked with
+![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
 
 ##### 📖 Learning
 ![](https://img.shields.io/badge/-Rust-informational?style=flat&logo=Rust&logoColor=white)
