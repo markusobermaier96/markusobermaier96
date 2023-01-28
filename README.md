@@ -10,9 +10,7 @@
 I am an Internet Computing Student at the University of Passau.
 
 ### 🚀 Releases
-* [Sphere Archer - first attempt at building & releasing a game from scratch](https://play.google.com/store/apps/details?id=com.SphereArcher)
-* [Finbuddy - first public Android app](https://play.google.com/store/apps/details?id=emporium.financecalendar&hl=en&gl=US)
-* [Virtual Poker Chips - first Android app release that gained traction](https://play.google.com/store/apps/details?id=enlightenworks.VirtualPokerChips)
+* [Nothing, yet](https://play.google.com/store/apps/details?id=com.SphereArcher)
 
 ### 🔨 Currently building
 * Helping with [Type4Py](https://arxiv.org/abs/2101.04470) research
