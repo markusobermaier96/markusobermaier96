@@ -14,9 +14,8 @@ I am an Internet Computing Student at the University of Passau.
 * []()
 -->
 
-### 🔨 Working on my bachelor thesis!
+### 🔨 Currently working on: My bachelor thesis!
 
-### 💻 Tech
 
 ##### ❤️ My go-to
 ![](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
