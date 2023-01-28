@@ -9,13 +9,13 @@
 
 I am an Internet Computing Student at the University of Passau.
 
+<!--
 ### 🚀 Releases
-* [Nothing, yet](https://play.google.com/store/apps/details?id=com.SphereArcher)
+* []()
+-->
 
-### 🔨 Currently building
-* Helping with [Type4Py](https://arxiv.org/abs/2101.04470) research
-* Personal website update (& migration to Gatsby)
-* 2 personal hobby projects, no details for now 😄
+### 🔨 Working on
+* My bachelor thesis
 
 ### 💻 Tech
 
