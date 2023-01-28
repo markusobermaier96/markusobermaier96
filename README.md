@@ -21,7 +21,7 @@ I am an Internet Computing Student at the University of Passau.
 
 ##### ❤️ My go-to tech
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=Python&logoColor=white&color=ED473D)
-![](https://img.shields.io/badge/-Java-informational?style=flat&logo=Java&logoColor=white&color=ED473D)
+![](https://img.shields.io/badge/-Rust-informational?style=flat&logo=Java&logoColor=white&color=ED473D)
 ![](https://img.shields.io/badge/-Windows-informational?style=flat&logo=Windows&logoColor=white&color=ED473D)
 ![](https://img.shields.io/badge/-Unity-informational?style=flat&logo=Unity&logoColor=white&color=ED473D)
 
