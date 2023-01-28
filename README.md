@@ -14,12 +14,11 @@ I am an Internet Computing Student at the University of Passau.
 * []()
 -->
 
-### 🔨 Working on
-* My bachelor thesis
+### 🔨 Working on my bachelor thesis!
 
 ### 💻 Tech
 
-##### ❤️ My go-to tech
+##### ❤️ My go-to
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
@@ -34,13 +33,10 @@ I am an Internet Computing Student at the University of Passau.
 ![](https://img.shields.io/badge/-CSS-informational?style=flat&logo=css3&logoColor=white&color=58C3CE)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-##### 🔨 Already worked with
+![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-
-##### 📖 Learning
-![](https://img.shields.io/badge/-Rust-informational?style=flat&logo=Rust&logoColor=white)
+##### 📖 Wish-list
 ![](https://img.shields.io/badge/-Typescript-informational?style=flat&logo=Typescript&logoColor=white)
 
 ---
