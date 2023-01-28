@@ -9,6 +9,10 @@ I am an Internet Computing Student at the University of Passau.
 
 ### 🔨 Currently working on
 <p style="text-align: center">My bachelor thesis</p>
+<div style="text-align:center">
+This text will be centered on the page
+</div>
+
 
 ##### ❤️ My go-to
 ![](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
