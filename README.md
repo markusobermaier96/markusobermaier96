@@ -25,8 +25,9 @@ I am an Internet Computing Student at the University of Passau.
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-![](https://img.shields.io/badge/-Manjaro-informational?style=flat&logo=Manjaro&logoColor=white&color=ED473D)
-![](https://img.shields.io/badge/-VSCode-informational?style=flat&logo=VSCode&logoColor=white&color=ED473D)
+
+![](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
+
 
 ##### 💎 Solid
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
