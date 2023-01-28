@@ -2,7 +2,8 @@
 
 [![](https://img.shields.io/badge/-Homepage-informational?style=flat&logo=github&color=181717&logoColor=ffffff)](https://markus-obermaier.de/)
 [![](https://img.shields.io/badge/-Email%20me%21-informational?style=flat&logo=gmail&color=ea4335&logoColor=ffffff)](mailto:markusobermaier420@gmail.com)
-[![](https://img.shields.io/badge/-Linkedin-informational?style=flat&logo=linkedin&color=0077b5&logoColor=ffffff)](https://www.linkedin.com/in/evaldas-latoskinas/)
+[![](https://img.shields.io/badge/-Linkedin-informational?style=flat&logo=linkedin&color=0077b5&logoColor=ffffff)](https://www.linkedin.com/in/markus-obermaier-4b043321a/)
+[![](https://img.shields.io/badge/-Twitter-informational?style=flat&logo=linkedin&color=0077b5&logoColor=ffffff)](https://www.linkedin.com/in/markus-obermaier-4b043321a/)
 
 ### Hello! 👋
 
