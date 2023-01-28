@@ -20,21 +20,21 @@ I am an Internet Computing Student at the University of Passau.
 ### 💻 Tech
 
 ##### ❤️ My go-to tech
-![](https://img.shields.io/badge/-Python-informational?style=flat&logo=Python&logoColor=white&color=ED473D)
-![](https://img.shields.io/badge/-Rust-informational?style=flat&logo=Rust&logoColor=white&color=ED473D)
-![](https://img.shields.io/badge/-Sveltekit-informational?style=flat&logo=Sveltekit&logoColor=white&color=ED473D)
+![](https://img.shields.io/badge/-Python-informational?style=flat&logo=Python&logoColor=white)
+![](https://img.shields.io/badge/-Rust-informational?style=flat&logo=Rust&logoColor=white&color)
+![](https://img.shields.io/badge/-Sveltekit-informational?style=flat&logo=Sveltekit&logoColor=white&color)
 
 ![](https://img.shields.io/badge/-Manjaro-informational?style=flat&logo=Manjaro&logoColor=white&color=ED473D)
 ![](https://img.shields.io/badge/-VSCode-informational?style=flat&logo=VSCode&logoColor=white&color=ED473D)
 
 ##### 💎 Solid
-![](https://img.shields.io/badge/-HTML-informational?style=flat&logo=html5&logoColor=white&color=EA9813)
-![](https://img.shields.io/badge/-CSS-informational?style=flat&logo=css3&logoColor=white&color=EA9813)
+![](https://img.shields.io/badge/-HTML-informational?style=flat&logo=html5&logoColor=white&color=58C3CE)
+![](https://img.shields.io/badge/-CSS-informational?style=flat&logo=css3&logoColor=white&color=58C3CE)
 ![](https://img.shields.io/badge/-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=58C3CE)
 
 ##### 📖 Learning
 ![](https://img.shields.io/badge/-Rust-informational?style=flat&logo=Rust&logoColor=white)
-![](https://img.shields.io/badge/-Typescript-informational?style=flat&logo=Typescript&logoColor=white&color=58C3CE)
+![](https://img.shields.io/badge/-Typescript-informational?style=flat&logo=Typescript&logoColor=white)
 
 ---
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=markusobermaier96&show_icons=true" />
