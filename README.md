@@ -36,7 +36,7 @@ I am an Internet Computing Student at the University of Passau.
 
 
 ##### 📖 Wish-list
-![](https://img.shields.io/badge/-Typescript-informational?style=flat&logo=Typescript&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=markusobermaier96&show_icons=true" />
