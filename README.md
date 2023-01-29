@@ -11,6 +11,7 @@ I am an Internet Computing Student at the University of Passau.
 
 ##### ❤️ My tech stack
 ![](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=black&color=red)
@@ -28,6 +29,7 @@ I am an Internet Computing Student at the University of Passau.
 
 ##### 📖 Wish-list
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
 ---
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=markusobermaier96&show_icons=true" />
