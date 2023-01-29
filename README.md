@@ -9,7 +9,7 @@ I am an Internet Computing Student at the University of Passau.
 
 ### 🔨 Currently working on: bachelor thesis
 
-##### ❤️ My go-to
+##### ❤️ My tech stack
 ![](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
 
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
