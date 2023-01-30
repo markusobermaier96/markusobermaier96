@@ -27,7 +27,7 @@ I am an Internet Computing Student at the University of Passau.
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![](https://img.shields.io/badge/Docker-Docker?style=for-the-badge&logo=docker&logoColor=white&color=00ffff)
+![](https://img.shields.io/badge/Docker-Docker?style=for-the-badge&logo=docker&logoColor=white&color=0db7ed)
 
 
 ##### 📖 Wish-list
