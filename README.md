@@ -7,8 +7,6 @@
 
 ### Hello! 👋
 
-I am an Internet Computing Student at the University of Passau.
-
 ### 🔨 Currently working on: pdf-analyser
  > Authentication and payment system via Metamask
  >
