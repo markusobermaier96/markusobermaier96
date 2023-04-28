@@ -10,7 +10,7 @@
 ### 🔨 Currently working on: pdf-analyser
  > Authentication and payment system via Metamask
  >
- > Query processing via OpenAi
+ > Query processing via GPT 3.5
 
 ##### ❤️ My tech stack
 ![](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
