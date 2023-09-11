@@ -7,10 +7,9 @@
 
 ### Hello! 👋
 
-### 🔨 Currently working on: pdf-analyser
- > Authentication and payment system with Metamask and Ethers.js
- >
- > QA processing with LangChain, LLM: GPT-3.5-Turbo
+### 🔨 Currently working on: phoenix
+ > 
+ > 
 
 ##### ❤️ My tech stack
 ![](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
