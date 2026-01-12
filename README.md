@@ -21,7 +21,7 @@
 ![](https://img.shields.io/badge/Docker-Docker?style=for-the-badge&logo=docker&logoColor=white&color=0db7ed)
 
 ##### 💎 Solid
-[![](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
+![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
 ##### 📖 Wish-list
