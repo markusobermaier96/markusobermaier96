@@ -5,11 +5,7 @@
 <!-- [![](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=ffffff)](https://twitter.com/m_obermaier96)
 [![](https://img.shields.io/badge/-Email%20me%21-informational?style=flat&logo=gmail&color=ea4335&logoColor=ffffff)](mailto:markus.obermaier420@gmail.com) -->
 
-### Hello! 👋
-
-### 🔨 Currently working on: phoenix
- > 
- > 
+### Hi 👋
 
 ##### ❤️ My tech stack
 ![](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
