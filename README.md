@@ -13,6 +13,3 @@
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/Docker-Docker?style=for-the-badge&logo=docker&logoColor=white&color=0db7ed)
-
----
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=markusobermaier96&show_icons=true" />
